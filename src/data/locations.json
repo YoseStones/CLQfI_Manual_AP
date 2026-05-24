@@ -1,0 +1,992 @@
+    [
+        {
+            "name": "Desert Sector (Epsilon): Life Upgrade behind Triplicate Rock",
+            "region": "DS Epsilon",
+            "category": ["DS Epsilon"],
+            "requires": "|Ulrich's Triplicate| and |Ulrich's Virtualization| and (|Odd's Virtualization| or |Aelita's Virtualization| or |Yumi's Virtualization|)"
+        },
+        {
+            "name": "Desert Sector (Epsilon): Power Upgrade behind Super Reflexes Wall",
+            "region": "DS Epsilon",
+            "category": ["DS Epsilon"],
+            "requires": "|Ulrich's Super Reflexes| and |Ulrich's Virtualization| and (|Odd's Virtualization| or |Aelita's Virtualization| or |Yumi's Virtualization|)"
+        },
+        {
+            "name": "Desert Sector (Epsilon): Goodie on West Island",
+            "region": "DS Epsilon",
+            "category": ["DS Epsilon"],
+            "requires": "|Ulrich's Triplicate| and |Aelita's Construction| and |Ulrich's Virtualization| and |Aelita's Virtualization|"
+        },
+        {
+            "name": "Desert Sector (Epsilon): Goodie on East Island",
+            "region": "DS Epsilon",
+            "category": ["DS Epsilon"],
+            "requires": "|Ulrich's Triplicate| and |Odd's Time Control| and |Ulrich's Virtualization| and |Odd's Virtualization|"
+        },
+        {
+            "name": "Desert Sector (Epsilon): Goodie at First Exit of Spiral",
+            "region": "DS Epsilon",
+            "category": ["DS Epsilon"],
+            "requires": "|Ulrich's Triplicate| and |Odd's Cat Jump| and |Ulrich's Virtualization| and |Odd's Virtualization|"
+        },
+        {
+            "name": "Desert Sector (Epsilon): Life Upgrade at Fifth Exit of Spiral",
+            "region": "DS Epsilon",
+            "category": ["DS Epsilon"],
+            "requires": "|Ulrich's Triplicate| and |Aelita's Petrification| and |Ulrich's Virtualization| and |Aelita's Virtualization|"
+        },
+        {
+            "name": "Desert Sector (Epsilon): Goodie behind Super Reflexes Wall",
+            "region": "DS Epsilon",
+            "category": ["DS Epsilon"],
+            "requires": "|Ulrich's Triplicate| and |Ulrich's Super Reflexes| and |Ulrich's Virtualization| and (|Odd's Virtualization| or |Aelita's Virtualization| or |Yumi's Virtualization|)"
+        },
+        {
+            "name": "Desert Sector (Epsilon): Power Upgrade near Tower",
+            "region": "DS Epsilon",
+            "category": ["DS Epsilon"],
+            "requires": "|Ulrich's Triplicate| and |Ulrich's Virtualization| and (|Odd's Virtualization| or |Aelita's Virtualization| or |Yumi's Virtualization|)"
+        },
+
+
+
+        {
+            "name": "Desert Sector (Beta): Life Upgrade Behind a Rock",
+            "region": "DS Beta",
+            "category": ["DS Beta"],
+            "requires": "|Odd's Virtualization| or |Aelita's Virtualization| or |Yumi's Virtualization|"
+        },
+        {
+            "name": "Desert Sector (Beta): Ulrich's Triplicate Data Package",
+            "region": "DS Beta",
+            "category": ["DS Beta"],
+            "requires": "|Odd's Virtualization| or |Aelita's Virtualization| or |Yumi's Virtualization|"
+        },
+        {
+            "name": "Desert Sector (Beta): Power Upgrade Next to a Tree",
+            "region": "DS Beta",
+            "category": ["DS Beta"],
+            "requires": "|Ulrich's Triplicate| and |Odd's Time Control| and |Ulrich's Virtualization| and |Odd's Virtualization|"
+        },
+        {
+            "name": "Desert Sector (Beta): Goodie on Floating Island",
+            "region": "DS Beta",
+            "category": ["DS Beta"],
+            "requires": "|Ulrich's Triplicate| and |Aelita's Wings| and |Ulrich's Virtualization| and |Aelita's Virtualization|"
+        },
+        {
+            "name": "Desert Sector (Beta): Power Upgrade on Checkpoint",
+            "region": "DS Beta",
+            "category": ["DS Beta"],
+            "requires": "|Odd's Cat Jump| and |Aelita's Petrification| and |Odd's Virtualization| and |Aelita's Virtualization|"
+        },
+        {
+            "name": "Desert Sector (Beta): Life Upgrade Using Ulrich's Skills",
+            "region": "DS Beta",
+            "category": ["DS Beta"],
+            "requires": "|Odd's Cat Jump| and |Aelita's Petrification| and |Ulrich's Triplicate| and |Ulrich's Super Reflexes| and |Odd's Virtualization| and |Aelita's Virtualization| and |Ulrich's Virtualization|"
+        },
+        {
+            "name": "Desert Sector (Beta): Goodie Using Aelita's Skills",
+            "region": "DS Beta",
+            "category": ["DS Beta"],
+            "requires": "|Odd's Cat Jump| and |Aelita's Petrification| and |Aelita's Construction| and |Odd's Virtualization| and |Aelita's Virtualization|"
+        },
+
+
+
+        {
+            "name": "Desert Replika: Power Upgrade from Balancing",
+            "region": "DR Button Path",
+            "category": ["DR Button Path"],
+            "requires": "|Desert Progressive Key:1| and |Skidbladnir| and |Yumi's Balance| and |Yumi's Virtualization|"
+        },
+        {
+            "name": "Desert Replika: Life Upgrade after Teleport",
+            "region": "DR Button Path",
+            "category": ["DR Button Path"],
+            "requires": "|Desert Progressive Key:1| and |Skidbladnir| and (|Odd's Virtualization| or |Aelita's Virtualization| or |Yumi's Virtualization|)"
+        },
+        {
+            "name": "Desert Replika: Goodie on Floating Island",
+            "region": "DR Button Path",
+            "category": ["DR Button Path"],
+            "requires": "|Desert Progressive Key:1| and |Skidbladnir| and |Aelita's Construction| and |Aelita's Virtualization|"
+        },
+        {
+            "name": "Desert Replika: Goodie behind Triplicate Rock",
+            "region": "DR Button Path",
+            "category": ["DR Button Path"],
+            "requires": "|Desert Progressive Key:1| and |Skidbladnir| and |Ulrich's Triplicate| and |Ulrich's Virtualization| and (|Odd's Virtualization| or |Aelita's Virtualization| or |Yumi's Virtualization|)"
+        },
+        {
+            "name": "Desert Replika: Goodie by Cat Jumping (1 of 2)",
+            "region": "DR Button Path",
+            "category": ["DR Button Path"],
+            "requires": "|Desert Progressive Key:1| and |Skidbladnir| and |Odd's Cat Jump| and |Odd's Virtualization|"
+        },
+        {
+            "name": "Desert Replika: Power Upgrade Behind a Rock",
+            "region": "DR Triplicate Path",
+            "category": ["DR Triplicate Path"],
+            "requires": "|Desert Progressive Key:1| and |Skidbladnir| and |Ulrich's Triplicate| and |Ulrich's Virtualization|"
+        },
+        {
+            "name": "Desert Replika: Goodie from Balancing",
+            "region": "DR Triplicate Path",
+            "category": ["DR Triplicate Path"],
+            "requires": "|Desert Progressive Key:1| and |Skidbladnir| and |Ulrich's Triplicate| and |Yumi's Balance| and |Ulrich's Virtualization| and |Yumi's Virtualization|"
+        },
+        {
+            "name": "Desert Replika: Goodie by Cat Jumping (2 of 2)",
+            "region": "DR Triplicate Path",
+            "category": ["DR Triplicate Path"],
+            "requires": "|Desert Progressive Key:1| and |Skidbladnir| and |Ulrich's Triplicate| and |Odd's Cat Jump| and |Ulrich's Virtualization| and |Odd's Virtualization|"
+        },
+        {
+            "name": "Desert Replika: Goodie next to Life Well",
+            "region": "DR Triplicate Path",
+            "category": ["DR Triplicate Path"],
+            "requires": "|Desert Progressive Key:1| and |Skidbladnir| and |Ulrich's Triplicate| and |Ulrich's Virtualization|"
+        },
+        {
+            "name": "Desert Replika: Life Upgrade using a Telekinesis Rock",
+            "region": "DR Triplicate Path",
+            "category": ["DR Triplicate Path"],
+            "requires": "|Desert Progressive Key:1| and |Skidbladnir| and |Ulrich's Triplicate| and |Yumi's Telekinesis| and |Ulrich's Virtualization| and |Yumi's Virtualization|"
+        },
+
+
+
+        {
+            "name": "Forest Sector: Power Upgrade on Checkpoint",
+            "region": "FS",
+            "category": ["FS"],
+            "requires": "|Odd's Virtualization| or |Aelita's Virtualization| or |Yumi's Virtualization|"
+        },
+        {
+            "name": "Forest Sector: Goodie behind Telekinesis Rock",
+            "region": "FS",
+            "category": ["FS"],
+            "requires": "|Yumi's Telekinesis| and |Yumi's Virtualization|"
+        },
+        {
+            "name": "Forest Sector: Life Upgrade on Floating Island",
+            "region": "FS",
+            "category": ["FS"],
+            "requires": "|Aelita's Construction| and |Aelita's Virtualization|"
+        },
+        {
+            "name": "Forest Sector: Goodie on Floating Island",
+            "region": "FS",
+            "category": ["FS"],
+            "requires": "|Aelita's Construction| and |Aelita's Virtualization|"
+        },
+        {
+            "name": "Forest Sector: Goodie inside Tunnel",
+            "region": "FS",
+            "category": ["FS"],
+            "requires": "|Odd's Virtualization| or |Aelita's Virtualization| or |Yumi's Virtualization|"
+        },
+        {
+            "name": "Forest Sector: Yumi's Balance Data Package",
+            "region": "FS",
+            "category": ["FS"],
+            "requires": "|Odd's Virtualization| or |Aelita's Virtualization| or |Yumi's Virtualization|"
+        },
+
+
+        
+        {
+            "name": "Forest Replika (Sigma): Life Upgrade in front of Button",
+            "region": "FR Sigma",
+            "category": ["FR Sigma"],
+            "requires": "|Forest Progressive Key:1| and |Skidbladnir| and (|Odd's Virtualization| or |Aelita's Virtualization| or |Yumi's Virtualization|)"
+        },
+        {
+            "name": "Forest Replika (Sigma): Goodie next to Teleporter",
+            "region": "FR Sigma",
+            "category": ["FR Sigma"],
+            "requires": "|Forest Progressive Key:1| and |Skidbladnir| and |Yumi's Balance| and |Yumi's Virtualization|"
+        },
+        {
+            "name": "Forest Replika (Sigma): Goodie on Floating Tile (1 of 2)",
+            "region": "FR Sigma",
+            "category": ["FR Sigma"],
+            "requires": "|Forest Progressive Key:1| and |Skidbladnir| and |Aelita's Construction| and |Aelita's Virtualization|"
+        },
+        {
+            "name": "Forest Replika (Sigma): Power Upgrade next to Teleporter",
+            "region": "FR Sigma",
+            "category": ["FR Sigma"],
+            "requires": "|Forest Progressive Key:1| and |Skidbladnir| and |Odd's Time Control| and |Odd's Virtualization|"
+        },
+        {
+            "name": "Forest Replika (Sigma): Aelita's Petrification Data Package",
+            "region": "FR Sigma",
+            "category": ["FR Sigma"],
+            "requires": "|Forest Progressive Key:1| and |Skidbladnir| and (|Odd's Virtualization| or |Aelita's Virtualization| or |Yumi's Virtualization|)"
+        },
+        {
+            "name": "Forest Replika (Sigma): Goodie on Floating Island",
+            "region": "FR Sigma",
+            "category": ["FR Sigma"],
+            "requires": "|Forest Progressive Key:1| and |Skidbladnir| and |Aelita's Petrification| and |Aelita's Wings| and |Aelita's Virtualization|"
+        },
+        {
+            "name": "Forest Replika (Sigma): Goodie near Lake",
+            "region": "FR Sigma",
+            "category": ["FR Sigma"],
+            "requires": "|Forest Progressive Key:1| and |Skidbladnir| and |Odd's Time Control| and |Odd's Virtualization| and |Ulrich's Virtualization|"
+        },
+        {
+            "name": "Forest Replika (Sigma): Goodie on Floating Tile (2 of 2)",
+            "region": "FR Sigma",
+            "category": ["FR Sigma"],
+            "requires": "|Forest Progressive Key:1| and |Skidbladnir| and |Odd's Time Control| and |Aelita's Wings| and |Odd's Virtualization| and |Aelita's Virtualization| and |Ulrich's Virtualization|"
+        },
+        {
+            "name": "Forest Replika (Sigma): Power Upgrade near Checkpoint",
+            "region": "FR Sigma",
+            "category": ["FR Sigma"],
+            "requires": "|Forest Progressive Key:1| and |Skidbladnir| and |Odd's Time Control| and |Odd's Virtualization| and |Ulrich's Virtualization|"
+        },
+        {
+            "name": "Forest Replika (Sigma): Goodie on Top of Rock",
+            "region": "FR Sigma",
+            "category": ["FR Sigma"],
+            "requires": "|Forest Progressive Key:1| and |Skidbladnir| and |Odd's Time Control| and |Aelita's Petrification| and |Odd's Virtualization| and |Aelita's Virtualization| and |Ulrich's Virtualization|"
+        },
+        {
+            "name": "Forest Replika (Sigma): Life Upgrade near Tower",
+            "region": "FR Sigma",
+            "category": ["FR Sigma"],
+            "requires": "|Forest Progressive Key:1| and |Skidbladnir| and |Odd's Time Control| and |Aelita's Petrification| and |Odd's Virtualization| and |Aelita's Virtualization| and |Ulrich's Virtualization|"
+        },
+
+
+
+        {
+            "name": "Forest Replika (Dzeta): Goodie on Top of Rock",
+            "region": "FR Dzeta",
+            "category": ["FR Dzeta"],
+            "requires": "|Forest Progressive Key:1| and |Skidbladnir| and |Aelita's Petrification| and |Aelita's Virtualization| and |Ulrich's Virtualization|"
+        },
+        {
+            "name": "Forest Replika (Dzeta): Goodie on Floating Island",
+            "region": "FR Dzeta",
+            "category": ["FR Dzeta"],
+            "requires": "|Forest Progressive Key:1| and |Skidbladnir| and |Aelita's Construction| and |Aelita's Virtualization| and |Ulrich's Virtualization|"
+        },
+        {
+            "name": "Forest Replika (Dzeta): Life Upgrade on Exploration",
+            "region": "FR Dzeta",
+            "category": ["FR Dzeta"],
+            "requires": "|Forest Progressive Key:1| and |Skidbladnir| and |Ulrich's Virtualization|"
+        },
+        {
+            "name": "Forest Replika (Dzeta): Goodie behind Telekinesis Rock",
+            "region": "FR Dzeta",
+            "category": ["FR Dzeta"],
+            "requires": "|Forest Progressive Key:1| and |Skidbladnir| and |Yumi's Telekinesis| and |Yumi's Virtualization| and |Ulrich's Virtualization|"
+        },
+        {
+            "name": "Forest Replika (Dzeta): Ulrich's Super Reflexes Data Package",
+            "region": "FR Dzeta",
+            "category": ["FR Dzeta"],
+            "requires": "|Forest Progressive Key:1| and |Skidbladnir| and |Ulrich's Virtualization|"
+        },
+        {
+            "name": "Forest Replika (Dzeta): Life Upgrade by Cat Jumping",
+            "region": "FR Dzeta",
+            "category": ["FR Dzeta"],
+            "requires": "|Forest Progressive Key:1| and |Skidbladnir| and |Odd's Cat Jump| and |Odd's Virtualization| and |Ulrich's Virtualization|"
+        },
+        {
+            "name": "Forest Replika (Dzeta): Power Upgrade before Tree",
+            "region": "FR Dzeta",
+            "category": ["FR Dzeta"],
+            "requires": "|Forest Progressive Key:1| and |Skidbladnir| and |Ulrich's Super Reflexes| and |Ulrich's Virtualization|"
+        },
+
+
+
+        {
+            "name": "Ice Sector: Goodie among many Digital Trash",
+            "region": "IS",
+            "category": ["IS"],
+            "requires": "|Ulrich's Super Reflexes| and |Aelita's Petrification| and |Ulrich's Virtualization| and |Aelita's Virtualization| and |Odd's Virtualization|"
+        },
+        {
+            "name": "Ice Sector: Aelita's Wings Data Package",
+            "region": "IS",
+            "category": ["IS"],
+            "requires": "|Ulrich's Super Reflexes| and |Aelita's Petrification| and |Ulrich's Virtualization| and |Aelita's Virtualization| and |Odd's Virtualization|"
+        },
+        {
+            "name": "Ice Sector: Life Upgrade after Flying",
+            "region": "IS",
+            "category": ["IS"],
+            "requires": "|Ulrich's Super Reflexes| and |Aelita's Petrification| and |Aelita's Wings| and |Ulrich's Virtualization| and |Aelita's Virtualization| and |Odd's Virtualization|"
+        },
+        {
+            "name": "Ice Sector: Life Upgrade after Climbing",
+            "region": "IS",
+            "category": ["IS"],
+            "requires": "|Ulrich's Super Reflexes| and |Aelita's Petrification| and |Aelita's Wings| and |Yumi's Telekinesis| and |Ulrich's Virtualization| and |Aelita's Virtualization| and |Odd's Virtualization| and |Yumi's Virtualization|"
+        },
+        {
+            "name": "Ice Sector: Goodie next to Power Well",
+            "region": "IS",
+            "category": ["IS"],
+            "requires": "|Ulrich's Super Reflexes| and |Aelita's Petrification| and |Aelita's Wings| and |Yumi's Telekinesis| and |Ulrich's Virtualization| and |Aelita's Virtualization| and |Odd's Virtualization| and |Yumi's Virtualization|"
+        },
+        {
+            "name": "Ice Sector: Power Upgrade behind Rock",
+            "region": "IS",
+            "category": ["IS"],
+            "requires": "|Ulrich's Super Reflexes| and |Aelita's Petrification| and |Aelita's Wings| and |Yumi's Telekinesis| and |Ulrich's Virtualization| and |Aelita's Virtualization| and |Odd's Virtualization| and |Yumi's Virtualization|"
+        },
+
+
+
+        {
+            "name": "Ice Replika: Goodie hiding at Beginning",
+            "region": "IR",
+            "category": ["IR"],
+            "requires": "|Ice Progressive Key:1| and |Skidbladnir|"
+        },
+        {
+            "name": "Ice Replika: Goodie on Floating Tile",
+            "region": "IR",
+            "category": ["IR"],
+            "requires": "|Ice Progressive Key:1| and |Skidbladnir| and |Aelita's Construction| and |Aelita's Virtualization|"
+        },
+        {
+            "name": "Ice Replika: Life Upgrade first Battle",
+            "region": "IR",
+            "category": ["IR"],
+            "requires": "|Ice Progressive Key:1| and |Skidbladnir|"
+        },
+        {
+            "name": "Ice Replika: Goodie behind Super Reflexes Wall (1 of 2)",
+            "region": "IR",
+            "category": ["IR"],
+            "requires": "|Ice Progressive Key:1| and |Skidbladnir| and |Ulrich's Super Reflexes| and |Ulrich's Virtualization|"
+        },
+        {
+            "name": "Ice Replika: Power Upgrade next to Super Reflexes Wall",
+            "region": "IR",
+            "category": ["IR"],
+            "requires": "|Ice Progressive Key:1| and |Skidbladnir|"
+        },
+        {
+            "name": "Ice Replika: Odd's Cat Jump Data Package",
+            "region": "IR",
+            "category": ["IR"],
+            "requires": "|Ice Progressive Key:1| and |Skidbladnir|"
+        },
+        {
+            "name": "Ice Replika: Goodie by Cat Jumping",
+            "region": "IR",
+            "category": ["IR"],
+            "requires": "|Ice Progressive Key:1| and |Skidbladnir| and |Odd's Cat Jump| and |Odd's Virtualization|"
+        },
+        {
+            "name": "Ice Replika: Life Upgrade on Checkpoint",
+            "region": "IR",
+            "category": ["IR"],
+            "requires": "|Ice Progressive Key:1| and |Skidbladnir| and |Aelita's Petrification| and |Odd's Cat Jump| and |Aelita's Virtualization| and |Odd's Virtualization|"
+        },
+        {
+            "name": "Ice Replika: Goodie using Telekinesis Rock",
+            "region": "IR",
+            "category": ["IR"],
+            "requires": "|Ice Progressive Key:1| and |Skidbladnir| and |Yumi's Telekinesis| and |Aelita's Petrification| and |Odd's Cat Jump| and |Yumi's Virtualization| and |Aelita's Virtualization| and |Odd's Virtualization|"
+        },
+        {
+            "name": "Ice Replika: Power Upgrade on Checkpoint",
+            "region": "IR",
+            "category": ["IR"],
+            "requires": "|Ice Progressive Key:1| and |Skidbladnir| and |Aelita's Petrification| and |Odd's Cat Jump| and |Aelita's Virtualization| and |Odd's Virtualization|"
+        },
+        {
+            "name": "Ice Replika: Goodie from Balancing",
+            "region": "IR",
+            "category": ["IR"],
+            "requires": "|Ice Progressive Key:1| and |Skidbladnir| and |Yumi's Balance| and |Aelita's Petrification| and |Odd's Cat Jump| and |Yumi's Virtualization| and |Aelita's Virtualization| and |Odd's Virtualization|"
+        },
+        {
+            "name": "Ice Replika: Goodie behind Super Reflexes Wall (2 of 2)",
+            "region": "IR",
+            "category": ["IR"],
+            "requires": "|Ice Progressive Key:1| and |Skidbladnir| and |Ulrich's Super Reflexes| and |Aelita's Petrification| and |Odd's Cat Jump| and |Ulrich's Virtualization| and |Aelita's Virtualization| and |Odd's Virtualization|"
+        },
+
+
+
+        {
+            "name": "Mountain Sector (Gamma): Life Upgrade at the Start",
+            "region": "MS Gamma",
+            "category": ["MS Gamma"]
+        },
+        {
+            "name": "Mountain Sector (Gamma): Goodie at East Path",
+            "region": "MS Gamma",
+            "category": ["MS Gamma"],
+            "requires": "|Aelita's Petrification| and |Aelita's Virtualization|"
+        },
+        {
+            "name": "Mountain Sector (Gamma): Goodie under the Sector",
+            "region": "MS Gamma",
+            "category": ["MS Gamma"],
+            "requires": "|Aelita's Construction| and |Aelita's Virtualization|"
+        },
+        {
+            "name": "Mountain Sector (Gamma): Goodie behind Triplicate Rock",
+            "region": "MS Gamma",
+            "category": ["MS Gamma"],
+            "requires": "|Yumi's Balance| and |Ulrich's Triplicate| and |Yumi's Virtualization| and |Ulrich's Virtualization|"
+        },
+        {
+            "name": "Mountain Sector (Gamma): Power Upgrade after Opening Doors",
+            "region": "MS Gamma",
+            "category": ["MS Gamma"],
+            "requires": "|Ulrich's Triplicate| and |Aelita's Petrification| and |Aelita's Construction| and |Yumi's Balance| and |Aelita's Virtualization| and |Yumi's Virtualization| and |Ulrich's Virtualization|"
+        },
+
+
+
+        {
+            "name": "Mountain Sector (Pi): Power Upgrade at the Start",
+            "region": "MS Pi",
+            "category": ["MS Pi"]
+        },
+        {
+            "name": "Mountain Sector (Pi): Life Upgrade behind a Boulder",
+            "region": "MS Pi",
+            "category": ["MS Pi"],
+            "requires": "|Aelita's Construction| and |Aelita's Virtualization|"
+        },
+        {
+            "name": "Mountain Sector (Pi): Goodie behind a Boulder",
+            "region": "MS Pi",
+            "category": ["MS Pi"],
+            "requires": "|Aelita's Construction| and |Aelita's Virtualization|"
+        },
+        {
+            "name": "Mountain Sector (Pi): Power Upgrade after Flying",
+            "region": "MS Pi",
+            "category": ["MS Pi"],
+            "requires": "|Aelita's Construction| and |Aelita's Wings| and |Aelita's Virtualization|"
+        },
+        {
+            "name": "Mountain Sector (Pi): Goodie on Button",
+            "region": "MS Pi",
+            "category": ["MS Pi"],
+            "requires": "|Aelita's Construction| and |Aelita's Wings| and |Aelita's Virtualization|"
+        },
+
+
+
+        {
+            "name": "Mountain Replika (Theta): Goodie on Floating Island",
+            "region": "MR Theta",
+            "category": ["MR Theta"],
+            "requires": "|Mountain Progressive Key:1| and |Skidbladnir| and |Aelita's Wings| and |Odd's Virtualization| and |Aelita's Virtualization|"
+        },
+        {
+            "name": "Mountain Replika (Theta): Goodie behind Bonzai",
+            "region": "MR Theta",
+            "category": ["MR Theta"],
+            "requires": "|Mountain Progressive Key:1| and |Skidbladnir| and |Odd's Virtualization|"
+        },
+        {
+            "name": "Mountain Replika (Theta): Life Upgrade using Telekinesis Rock",
+            "region": "MR Theta",
+            "category": ["MR Theta"],
+            "requires": "|Mountain Progressive Key:1| and |Skidbladnir| and |Ulrich's Triplicate| and |Yumi's Telekinesis| and |Odd's Virtualization| and |Ulrich's Virtualization| and |Yumi's Virtualization|"
+        },
+        {
+            "name": "Mountain Replika (Theta): Power Upgrade on Floating Island",
+            "region": "MR Theta",
+            "category": ["MR Theta"],
+            "requires": "|Mountain Progressive Key:1| and |Skidbladnir| and |Ulrich's Triplicate| and |Odd's Time Control| and |Odd's Virtualization| and |Ulrich's Virtualization|"
+        },
+
+
+
+        {
+            "name": "Mountain Replika (Omicron): Power Upgrade after Checkpoint",
+            "region": "MR Omicron",
+            "category": ["MR Omicron"],
+            "requires": "|Mountain Progressive Key:1| and |Skidbladnir|"
+        },
+        {
+            "name": "Mountain Replika (Omicron): Goodie on Floating Island (1 of 3)",
+            "region": "MR Omicron",
+            "category": ["MR Omicron"],
+            "requires": "|Mountain Progressive Key:1| and |Skidbladnir| and |Odd's Time Control| and |Odd's Virtualization|"
+        },
+        {
+            "name": "Mountain Replika (Omicron): Goodie on Floating Island (2 of 3)",
+            "region": "MR Omicron",
+            "category": ["MR Omicron"],
+            "requires": "|Mountain Progressive Key:1| and |Skidbladnir| and |Aelita's Wings| and |Aelita's Virtualization|"
+        },
+        {
+            "name": "Mountain Replika (Omicron): Life Upgrade from Balancing",
+            "region": "MR Omicron",
+            "category": ["MR Omicron"],
+            "requires": "|Mountain Progressive Key:1| and |Skidbladnir| and |Yumi's Balance| and |Yumi's Virtualization|"
+        },
+        {
+            "name": "Mountain Replika (Omicron): Goodie on Floating Island (3 of 3)",
+            "region": "MR Omicron",
+            "category": ["MR Omicron"],
+            "requires": "|Mountain Progressive Key:1| and |Skidbladnir| and |Aelita's Construction| and |Aelita's Virtualization|"
+        },
+
+
+
+        {
+            "name": "Sector 5 (Skid Garage): Goodie after Checkpoint",
+            "region": "S5 Skid Garage",
+            "category": ["S5 Skid Garage"],
+            "requires": "|Odd's Virtualization| or |Aelita's Virtualization| or |Yumi's Virtualization|"
+        },
+        {
+            "name": "Sector 5 (Skid Garage): Goodie by Cat Jumping",
+            "region": "S5 Skid Garage",
+            "category": ["S5 Skid Garage"],
+            "requires": "|Odd's Cat Jump| and |Odd's Virtualization|"
+        },
+        {
+            "name": "Sector 5 (Skid Garage): Life Upgrade by Cat Jumping",
+            "region": "S5 Skid Garage",
+            "category": ["S5 Skid Garage"],
+            "requires": "|Odd's Cat Jump| and |Odd's Virtualization|"
+        },
+        {
+            "name": "Sector 5 (Skid Garage): Goodie after Platforming",
+            "region": "S5 Skid Garage",
+            "category": ["S5 Skid Garage"],
+            "requires": "|Odd's Time Control| and |Odd's Virtualization|"
+        },
+        {
+            "name": "Sector 5 (Skid Garage): Power Upgrade after Platforming",
+            "region": "S5 Skid Garage",
+            "category": ["S5 Skid Garage"],
+            "requires": "|Odd's Time Control| and |Odd's Virtualization|"
+        },
+
+
+
+        {
+            "name": "Sector 5 (Core): Goodie by Cat Jumping and Telekinesis Rock",
+            "region": "S5 Core",
+            "category": ["S5 Core"],
+            "requires": "|Odd's Cat Jump| and |Yumi's Telekinesis| and |Odd's Virtualization| and |Yumi's Virtualization|"
+        },
+        {
+            "name": "Sector 5 (Core): Power Upgrade on Checkpoint",
+            "region": "S5 Core",
+            "category": ["S5 Core"],
+            "requires": "|Odd's Virtualization|"
+        },
+        {
+            "name": "Sector 5 (Core): Life Upgrade by using Elevator",
+            "region": "S5 Core",
+            "category": ["S5 Core"],
+            "requires": "|Odd's Virtualization|"
+        },
+        {
+            "name": "Sector 5 (Core): Goodie behind Super Reflexes Wall (1 of 2)",
+            "region": "S5 Core",
+            "category": ["S5 Core"],
+            "requires": "|Ulrich's Super Reflexes| and |Odd's Virtualization| and |Ulrich's Virtualization|"
+        },
+        {
+            "name": "Sector 5 (Core): Goodie from Balancing",
+            "region": "S5 Core",
+            "category": ["S5 Core"],
+            "requires": "|Yumi's Balance| and |Yumi's Virtualization|"
+        },
+        {
+            "name": "Sector 5 (Core): Aelita's Construction Data Package",
+            "region": "S5 Core",
+            "category": ["S5 Core"],
+            "requires": "|Yumi's Balance| and |Odd's Cat Jump| and |Yumi's Virtualization| and |Odd's Virtualization|"
+        },
+        {
+            "name": "Sector 5 (Core): Power Upgrade between Moving Walls (1 of 2)",
+            "region": "S5 Core",
+            "category": ["S5 Core"],
+            "requires": "|Yumi's Balance| and |Odd's Cat Jump| and |Aelita's Construction| and |Yumi's Virtualization| and |Odd's Virtualization| and |Aelita's Virtualization|"
+        },
+        {
+            "name": "Sector 5 (Core): Goodie behind Super Reflexes Wall (2 of 2)",
+            "region": "S5 Core",
+            "category": ["S5 Core"],
+            "requires": "|Yumi's Balance| and |Odd's Cat Jump| and |Aelita's Construction| and |Ulrich's Super Reflexes| and |Yumi's Virtualization| and |Odd's Virtualization| and |Aelita's Virtualization| and |Ulrich's Virtualization|"
+        },
+        {
+            "name": "Sector 5 (Core): Goodie behind Telekinesis Rock",
+            "region": "S5 Core",
+            "category": ["S5 Core"],
+            "requires": "|Yumi's Balance| and |Odd's Cat Jump| and |Aelita's Construction| and |Yumi's Telekinesis| and |Yumi's Virtualization| and |Odd's Virtualization| and |Aelita's Virtualization|"
+        },
+        {
+            "name": "Sector 5 (Core): Power Upgrade between Moving Walls (2 of 2)",
+            "region": "S5 Core",
+            "category": ["S5 Core"],
+            "requires": "|Yumi's Balance| and |Odd's Cat Jump| and |Aelita's Construction| and |Ulrich's Super Reflexes| and |Yumi's Virtualization| and |Odd's Virtualization| and |Aelita's Virtualization| and |Ulrich's Virtualization|"
+        },
+
+
+
+        {
+            "name": "Volcano Replika (Alpha): Goodie by using Telekinesis Rock",
+            "region": "VR Alpha",
+            "category": ["VR Alpha"],
+            "requires": "|Volcano Replika Key:1| and |Skidbladnir| and |Yumi's Telekinesis| and |Yumi's Virtualization|"
+        },
+        {
+            "name": "Volcano Replika (Alpha): Odd's Time Control Data Package",
+            "region": "VR Alpha",
+            "category": ["VR Alpha"],
+            "requires": "|Volcano Replika Key:1| and |Skidbladnir| and |Aelita's Petrification| and |Yumi's Balance| and |Aelita's Virtualization| and |Yumi's Virtualization|"
+        },
+        {
+            "name": "Volcano Replika (Alpha): Goodie on Floating Island",
+            "region": "VR Alpha",
+            "category": ["VR Alpha"],
+            "requires": "|Volcano Replika Key:1| and |Skidbladnir| and |Aelita's Petrification| and |Yumi's Balance| and |Odd's Time Control| and |Aelita's Wings| and |Aelita's Virtualization| and |Yumi's Virtualization| and |Odd's Virtualization|"
+        },
+        {
+            "name": "Volcano Replika (Alpha): Power Upgrade behind Triplicate Rock",
+            "region": "VR Alpha",
+            "category": ["VR Alpha"],
+            "requires": "|Volcano Replika Key:1| and |Skidbladnir| and |Aelita's Petrification| and |Yumi's Balance| and |Odd's Time Control| and |Ulrich's Triplicate| and |Aelita's Virtualization| and |Yumi's Virtualization| and |Odd's Virtualization| and |Ulrich's Virtualization|"
+        },
+        {
+            "name": "Volcano Replika (Alpha): Power Upgrade by Returning to Start",
+            "region": "VR Alpha",
+            "category": ["VR Alpha"],
+            "requires": "|Volcano Replika Key:1| and |Skidbladnir| and |Aelita's Petrification| and |Yumi's Balance| and |Odd's Time Control| and |Aelita's Virtualization| and |Yumi's Virtualization| and |Odd's Virtualization|"
+        },
+        {
+            "name": "Volcano Replika (Alpha): Life Upgrade by Returning to Start",
+            "region": "VR Alpha",
+            "category": ["VR Alpha"],
+            "requires": "|Volcano Replika Key:1| and |Skidbladnir| and |Aelita's Petrification| and |Yumi's Balance| and |Odd's Time Control| and |Aelita's Virtualization| and |Yumi's Virtualization| and |Odd's Virtualization|"
+        },
+        {
+            "name": "Volcano Replika (Alpha): Life Upgrade inside Wall",
+            "region": "VR Alpha",
+            "category": ["VR Alpha"],
+            "requires": "|Volcano Replika Key:1| and |Skidbladnir| and |Aelita's Petrification| and |Yumi's Balance| and |Odd's Time Control| and |Yumi's Telekinesis| and |Aelita's Virtualization| and |Yumi's Virtualization| and |Odd's Virtualization|"
+        },
+        {
+            "name": "Volcano Replika (Alpha): Power Upgrade inside Empty Volcano",
+            "region": "VR Alpha",
+            "category": ["VR Alpha"],
+            "requires": "|Volcano Replika Key:1| and |Skidbladnir| and |Aelita's Petrification| and |Yumi's Balance| and |Odd's Time Control| and |Yumi's Telekinesis| and |Aelita's Wings| and |Ulrich's Triplicate| and |Aelita's Virtualization| and |Yumi's Virtualization| and |Odd's Virtualization| and |Ulrich's Virtualization|"
+        },
+
+
+
+        {
+            "name": "Volcano Replika (Omega): Yumi's Telekinesis Data Package",
+            "region": "VR Omega",
+            "category": ["VR Omega"],
+            "requires": "|Volcano Replika Key:1| and |Skidbladnir|"
+        },
+        {
+            "name": "Volcano Replika (Omega): Life Upgrade behind Secret Telekinesis Rock",
+            "region": "VR Omega",
+            "category": ["VR Omega"],
+            "requires": "|Volcano Replika Key:1| and |Skidbladnir| and |Yumi's Telekinesis| and |Yumi's Virtualization| and |Odd's Virtualization|"
+        },
+        {
+            "name": "Volcano Replika (Omega): Goodie on Floating Island",
+            "region": "VR Omega",
+            "category": ["VR Omega"],
+            "requires": "|Volcano Replika Key:1| and |Skidbladnir| and |Yumi's Telekinesis| and |Aelita's Wings| and |Yumi's Virtualization| and |Odd's Virtualization| and |Aelita's Virtualization|"
+        },
+        {
+            "name": "Volcano Replika (Omega): Power Upgrade by Wall Climbing",
+            "region": "VR Omega",
+            "category": ["VR Omega"],
+            "requires": "|Volcano Replika Key:1| and |Skidbladnir| and |Yumi's Telekinesis| and |Odd's Cat Jump| and |Yumi's Virtualization| and |Odd's Virtualization|"
+        },
+        {
+            "name": "Volcano Replika (Omega): Goodie inside Volcano",
+            "region": "VR Omega",
+            "category": ["VR Omega"],
+            "requires": "|Volcano Replika Key:1| and |Skidbladnir| and |Yumi's Telekinesis| and |Odd's Cat Jump| and |Yumi's Virtualization| and |Odd's Virtualization|"
+        },
+        {
+            "name": "Volcano Replika (Omega): Power Upgrade behind Super Reflexes Wall",
+            "region": "VR Omega",
+            "category": ["VR Omega"],
+            "requires": "|Volcano Replika Key:1| and |Skidbladnir| and |Yumi's Telekinesis| and |Yumi's Balance| and |Odd's Cat Jump| and |Ulrich's Super Reflexes| and |Yumi's Virtualization| and |Odd's Virtualization| and |Ulrich's Virtualization|"
+        },
+        {
+            "name": "Volcano Replika (Omega): Goodie on Top of Platform",
+            "region": "VR Omega",
+            "category": ["VR Omega"],
+            "requires": "|Volcano Replika Key:1| and |Skidbladnir| and |Yumi's Telekinesis| and |Ulrich's Super Reflexes| and |Aelita's Petrification| and |Yumi's Virtualization| and |Odd's Virtualization| and |Aelita's Virtualization| and |Ulrich's Virtualization|"
+        },
+        {
+            "name": "Volcano Replika (Omega): Life Upgrade behind Triplicate Rock",
+            "region": "VR Omega",
+            "category": ["VR Omega"],
+            "requires": "|Volcano Replika Key:1| and |Skidbladnir| and |Yumi's Telekinesis| and |Ulrich's Super Reflexes| and |Ulrich's Triplicate| and |Yumi's Virtualization| and |Odd's Virtualization| and |Ulrich's Virtualization|"
+        },
+
+
+
+        {
+            "name": "Volcano Replika (Upsilon): Goodie hiding by the East",
+            "region": "VR Upsilon",
+            "category": ["VR Upsilon"],
+            "requires": "|Volcano Replika Key:1| and |Skidbladnir| and (|Odd's Virtualization| or |Aelita's Virtualization| or |Yumi's Virtualization|)"
+        },
+        {
+            "name": "Volcano Replika (Upsilon): Life Upgrade hiding by the East",
+            "region": "VR Upsilon",
+            "category": ["VR Upsilon"],
+            "requires": "|Volcano Replika Key:1| and |Skidbladnir| and (|Odd's Virtualization| or |Aelita's Virtualization| or |Yumi's Virtualization|)"
+        },
+        {
+            "name": "Volcano Replika (Upsilon): Power Upgrade after Checkpoint",
+            "region": "VR Upsilon",
+            "category": ["VR Upsilon"],
+            "requires": "|Volcano Replika Key:1| and |Skidbladnir| and |Aelita's Petrification| and |Aelita's Virtualization|"
+        },
+        {
+            "name": "Volcano Replika (Upsilon): Life Upgrade among many Buttons",
+            "region": "VR Upsilon",
+            "category": ["VR Upsilon"],
+            "requires": "|Volcano Replika Key:1| and |Skidbladnir| and |Aelita's Petrification| and |Aelita's Virtualization|"
+        },
+        {
+            "name": "Volcano Replika (Upsilon): Goodie before Teleport",
+            "region": "VR Upsilon",
+            "category": ["VR Upsilon"],
+            "requires": "|Volcano Replika Key:1| and |Skidbladnir| and |Aelita's Petrification| and |Ulrich's Triplicate| and |Odd's Time Control| and |Aelita's Virtualization| and |Ulrich's Virtualization| and |Odd's Virtualization|"
+        },
+
+
+        {
+            "name": "Desert Sector (Epsilon): Tower from Tutorial",
+            "region": "DS Epsilon",
+            "category": ["DS Epsilon"],
+            "requires" : "|Odd's Virtualization|"
+        },
+        {
+            "name": "Desert Sector (Epsilon): Tower from Triplicate Path",
+            "region": "DS Epsilon",
+            "category": ["DS Epsilon"],
+            "requires" : "|Ulrich's Triplicate| and |Ulrich's Virtualization| and (|Aelita's Virtualization| or |Odd's Virtualization| or |Yumi's Virtualization|)"
+        },
+        {
+            "name": "Desert Sector (Beta): Tower from Triplicate Path",
+            "region": "DS Beta",
+            "category": ["DS Beta"],
+            "requires" : "|Ulrich's Triplicate| and |Ulrich's Virtualization| and (|Aelita's Virtualization| or |Odd's Virtualization| or |Yumi's Virtualization|)"
+        },
+        {
+            "name": "Desert Sector (Beta): Tower from Cat Jump Path",
+            "region": "DS Beta",
+            "category": ["DS Beta"],
+            "requires" : "|Odd's Cat Jump| and |Aelita's Petrification| and |Odd's Virtualization| and |Aelita's Virtualization|"
+        },
+        {
+            "name": "Desert Replika: Tower from Button Path",
+            "region": "DR Button Path",
+            "category": ["DR Button Path"],
+            "requires": "|Desert Progressive Key:1| and |Skidbladnir| and (|Odd's Virtualization| or |Aelita's Virtualization| or |Yumi's Virtualization|)"
+        },
+        {
+            "name": "Desert Replika: Tower from Triplicate Path",
+            "region": "DR Triplicate Path",
+            "category": ["DR Triplicate Path"],
+            "requires": "|Desert Progressive Key:1| and |Skidbladnir| and |Ulrich's Triplicate| and |Ulrich's Virtualization| and (|Odd's Virtualization| or |Aelita's Virtualization|)"
+        },
+        {
+            "name": "Forest Sector: Tower from Main Path",
+            "region": "FS",
+            "category": ["FS"],
+            "requires": "|Yumi's Balance| and |Yumi's Virtualization|"
+        },
+        {
+            "name": "Forest Replika (Sigma): Tower from Left Route",
+            "region": "FR Sigma",
+            "category": ["FR Sigma"],
+            "requires": "|Forest Progressive Key:1| and |Skidbladnir| and |Aelita's Petrification| and |Aelita's Virtualization|"
+        },
+        {
+            "name": "Forest Replika (Sigma): Tower from Time Control Route",
+            "region": "FR Sigma",
+            "category": ["FR Sigma"],
+            "requires": "|Forest Progressive Key:1| and |Skidbladnir| and |Odd's Time Control| and |Aelita's Petrification| and |Odd's Virtualization| and |Aelita's Virtualization| and |Ulrich's Virtualization|"
+        },
+        {
+            "name": "Forest Replika (Dzeta): Getting back to the Skid",
+            "region": "FR Dzeta",
+            "category": ["FR Dzeta"],
+            "requires": "|Forest Progressive Key:1| and |Skidbladnir| and |Ulrich's Super Reflexes| and |Ulrich's Virtualization|"
+        },
+        {
+            "name": "Ice Sector: Tower from Main Route",
+            "region": "IS",
+            "category": ["IS"],
+            "requires": "|Ulrich's Super Reflexes| and |Aelita's Petrification| and |Aelita's Wings| and |Yumi's Telekinesis| and |Odd's Cat Jump|  and |Ulrich's Virtualization| and |Aelita's Virtualization| and |Odd's Virtualization| and |Yumi's Virtualization|"
+        },
+        {
+            "name": "Ice Replika: Tower from Middle-Path",
+            "region": "IR",
+            "category": ["IR"],
+            "requires": "|Ice Progressive Key:1| and |Skidbladnir| and |Odd's Cat Jump| and |Odd's Virtualization|"
+        },
+        {
+            "name": "Ice Replika: Last Tower from Main Route",
+            "region": "IR",
+            "category": ["IR"],
+            "requires": "|Ice Progressive Key:1| and |Skidbladnir| and |Odd's Cat Jump| and |Aelita's Petrification| and |Ulrich's Triplicate| and |Aelita's Virtualization| and |Odd's Virtualization|"
+        },
+        {
+            "name": "Mountain Sector (Gamma): Tower after Opening Doors",
+            "region": "MS Gamma",
+            "category": ["MS Gamma"],
+            "requires": "|Ulrich's Triplicate| and |Aelita's Petrification| and |Aelita's Construction| and |Yumi's Balance| and |Aelita's Virtualization| and |Yumi's Virtualization| and |Ulrich's Virtualization|"
+        },
+        {
+            "name": "Mountain Sector (Pi): Protect Franz Hopper",
+            "region": "MS Pi",
+            "category": ["MS Pi"],
+            "requires": "|Aelita's Construction| and |Aelita's Wings| and |Aelita's Virtualization|"
+        },
+        {
+            "name": "Mountain Replika (Theta): Getting back to the Skid",
+            "region": "MR Theta",
+            "category": ["MR Theta"],
+            "requires": "|Mountain Progressive Key:1| and |Skidbladnir| and |Ulrich's Triplicate| and |Ulrich's Virtualization| and |Odd's Virtualization|"
+        },
+        {
+            "name": "Mountain Replika (Omicron): Getting back to the Skid",
+            "region": "MR Omicron",
+            "category": ["MR Omicron"],
+            "requires": "|Mountain Progressive Key:1| and |Skidbladnir| and (|Odd's Virtualization| or |Aelita's Virtualization| or |Yumi's Virtualization|)"
+        },
+        {
+            "name": "Sector 5 (Skid Garage): Celestial Dome",
+            "region": "S5 Skid Garage",
+            "category": ["S5 Skid Garage"],
+            "requires": "|Odd's Virtualization|"
+        },
+        {
+            "name": "Sector 5 (Core): Celestial Dome",
+            "region": "S5 Core",
+            "category": ["S5 Core"],
+            "requires": "|Odd's Virtualization|"
+        },
+        {
+            "name": "Sector 5 (Core): Protect the Core",
+            "region": "S5 Core",
+            "category": ["S5 Core"],
+            "requires": "|Yumi's Balance| and |Odd's Cat Jump| and |Aelita's Construction| and |Odd's Virtualization| and |Aelita's Virtualization| and |Yumi's Virtualization|"
+        },
+        {
+            "name": "Volcano Replika (Alpha): Getting back to the Skid",
+            "region": "VR Alpha",
+            "category": ["VR Alpha"],
+            "requires": "|Volcano Replika Key:1| and |Skidbladnir| and |Aelita's Petrification| and |Yumi's Balance| and |Odd's Time Control| and |Aelita's Virtualization| and |Yumi's Virtualization| and |Odd's Virtualization|"
+        },
+        {
+            "name": "Volcano Replika (Alpha): Defeat William around Giant Volcano",
+            "region": "VR Alpha",
+            "category": ["VR Alpha"],
+            "requires": "|Volcano Replika Key:1| and |Skidbladnir| and |Aelita's Petrification| and |Yumi's Balance| and |Odd's Time Control| and |Yumi's Telekinesis| and |Aelita's Wings| and |Ulrich's Triplicate| and |Aelita's Virtualization| and |Yumi's Virtualization| and |Odd's Virtualization| and |Ulrich's Virtualization|"
+        },
+        {
+            "name": "Volcano Replika (Omega): Tower from Stealth Mission",
+            "region": "VR Omega",
+            "category": ["VR Omega"],
+            "requires": "|Volcano Replika Key:1| and |Skidbladnir| and |Yumi's Telekinesis| and |Yumi's Balance| and |Odd's Cat Jump| and |Yumi's Virtualization| and |Odd's Virtualization|"
+        },
+        {
+            "name": "Volcano Replika (Omega): Defeat William in X.A.N.A's Core",
+            "region": "VR Omega",
+            "category": ["VR Omega"],
+            "requires": "|Volcano Replika Key:1| and |Skidbladnir| and |Yumi's Telekinesis| and |Odd's Cat Jump| and |Yumi's Balance| and |Ulrich's Super Reflexes| and |Yumi's Virtualization| and |Odd's Virtualization| and |Ulrich's Virtualization|"
+        },
+        {
+            "name": "Volcano Replika (Upsilon): Getting back to the Skid",
+            "region": "VR Upsilon",
+            "category": ["VR Upsilon"],
+            "requires": "|Volcano Replika Key:1| and |Skidbladnir| and |Aelita's Petrification| and |Ulrich's Triplicate| and |Odd's Time Control| and |Aelita's Virtualization| and |Ulrich's Virtualization| and |Odd's Virtualization|"
+        },
+        
+        {
+            "name": "Desert Driller Defeated",
+            "region": "Desert Supercomputer",
+            "category": ["Bosses"],
+            "requires": "|Desert Progressive Key:2| and |Skidbladnir| and |Ulrich's Virtualization| and |Yumi's Virtualization|"
+        },
+        {
+            "name": "Insekt Lord Defeated",
+            "region": "Forest Supercomputer",
+            "category": ["Bosses"],
+            "requires": "|Forest Progressive Key:2| and |Skidbladnir| and |Yumi's Telekinesis| and |Yumi's Virtualization|"
+        },
+        {
+            "name": "Ice Spider Defeated",
+            "region": "Ice Supercomputer",
+            "category": ["Bosses"],
+            "requires": "|Ice Progressive Key:2| and |Skidbladnir| and (|Odd's Virtualization| or |Aelita's Virtualization| or |Yumi's Virtualization|)"
+        },
+        {
+            "name": "Mountain Bug Defeated",
+            "region": "Mountain Supercomputer",
+            "category": ["Bosses"],
+            "requires": "|Mountain Progressive Key:2| and |Skidbladnir| and (|Odd's Virtualization| or |Aelita's Virtualization| or |Yumi's Virtualization|)"
+        },
+        {
+            "name": "Desert Replika Destroyed",
+            "region": "Desert Supercomputer",
+            "category": ["Supercomputers"],
+            "requires": "|Desert Progressive Key:2| and |Skidbladnir| and |Ulrich's Virtualization| and |Yumi's Virtualization|",
+            "place_item": ["Desert Replika Destroyed"]
+        },
+        {
+            "name": "Forest Replika Destroyed",
+            "region": "Forest Supercomputer",
+            "category": ["Supercomputers"],
+            "requires": "|Forest Progressive Key:2| and |Skidbladnir| and |Yumi's Telekinesis| and |Yumi's Virtualization|",
+            "place_item": ["Forest Replika Destroyed"]
+        },
+        {
+            "name": "Ice Replika Destroyed",
+            "region": "Ice Supercomputer",
+            "category": ["Supercomputers"],
+            "requires": "|Ice Progressive Key:2| and |Skidbladnir| and (|Odd's Virtualization| or |Aelita's Virtualization| or |Yumi's Virtualization|)",
+            "place_item": ["Ice Replika Destroyed"]
+        },
+        {
+            "name": "Mountain Replika Destroyed",
+            "region": "Mountain Supercomputer",
+            "category": ["Supercomputers"],
+            "requires": "|Mountain Progressive Key:2| and |Skidbladnir| and (|Odd's Virtualization| or |Aelita's Virtualization| or |Yumi's Virtualization|)",
+            "place_item": ["Mountain Replika Destroyed"]
+        },
+        {
+            "name": "Volcano Replika Destroyed and William is saved!",
+            "region": "Volcano Supercomputer",
+            "category": ["Goal"],
+            "requires": "|Skidbladnir| and |Desert Replika Destroyed| and |Forest Replika Destroyed| and |Ice Replika Destroyed| and |Mountain Replika Destroyed| and |Volcano Replika Key|",
+            "victory": true
+        }
+    ]

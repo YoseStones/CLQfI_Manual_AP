@@ -1,0 +1,90 @@
+{
+    "Holomap": {
+      "starting": true,
+      "connects_to": ["DS Epsilon", "DS Beta", "DR Button Path", "DR Triplicate Path", "FS", "FR Sigma", "FR Dzeta", "IS", "IR", "MS Gamma", "MS Pi", "MR Theta", "MR Omicron", "S5 Skid Garage", "S5 Core", "VR Alpha", "VR Omega", "VR Upsilon", "Desert Supercomputer", "Forest Supercomputer", "Ice Supercomputer", "Mountain Supercomputer", "Volcano Supercomputer"]
+    },
+    "DS Epsilon": {
+      "connects_to": ["Holomap"]
+    },
+    "DS Beta": {
+      "connects_to": ["Holomap"]
+    },
+    "DR Button Path": {
+      "connects_to": ["Holomap"],
+      "requires": "|Desert Progressive Key:1| and |Skidbladnir|"
+    },
+    "DR Triplicate Path": {
+      "connects_to": ["Holomap"],
+      "requires": "|Desert Progressive Key:1| and |Skidbladnir|"
+    },
+    "FS": {
+      "connects_to": ["Holomap"]
+    },
+    "FR Sigma": {
+      "connects_to": ["Holomap"],
+      "requires": "|Forest Progressive Key:1| and |Skidbladnir|"
+    },
+    "FR Dzeta": {
+      "connects_to": ["Holomap"],
+      "requires": "|Forest Progressive Key:1| and |Skidbladnir|"
+    },
+    "IS": {
+      "connects_to": ["Holomap"]
+    },
+    "IR": {
+      "connects_to": ["Holomap"],
+      "requires": "|Ice Progressive Key:1| and |Skidbladnir|"
+    },
+    "MS Gamma": {
+      "connects_to": ["Holomap"]
+    },
+    "MS Pi": {
+      "connects_to": ["Holomap"]
+    },
+    "MR Theta": {
+      "connects_to": ["Holomap"],
+      "requires": "|Mountain Progressive Key:1| and |Skidbladnir|"
+    },
+    "MR Omicron": {
+      "connects_to": ["Holomap"],
+      "requires": "|Mountain Progressive Key:1| and |Skidbladnir|"
+    },
+    "S5 Skid Garage": {
+      "connects_to": ["Holomap"]
+    },
+    "S5 Core": {
+      "connects_to": ["Holomap"]
+    },
+    "VR Alpha": {
+      "connects_to": ["Holomap"],
+      "requires": "|Volcano Replika Key:1| and |Skidbladnir|"
+    },
+    "VR Omega": {
+      "connects_to": ["Holomap"],
+      "requires": "|Volcano Replika Key:1| and |Skidbladnir|"
+    },
+    "VR Upsilon": {
+      "connects_to": ["Holomap"],
+      "requires": "|Volcano Replika Key:1| and |Skidbladnir|"
+    },
+    "Desert Supercomputer": {
+      "connects_to": ["Holomap"],
+      "requires": "|Desert Progressive Key:2| and |Skidbladnir|"
+    },
+    "Forest Supercomputer": {
+      "connects_to": ["Holomap"],
+      "requires": "|Forest Progressive Key:2| and |Skidbladnir|"
+    },
+    "Ice Supercomputer": {
+      "connects_to": ["Holomap"],
+      "requires": "|Ice Progressive Key:2| and |Skidbladnir|"
+    },
+    "Mountain Supercomputer": {
+      "connects_to": ["Holomap"],
+      "requires": "|Mountain Progressive Key:2| and |Skidbladnir|"
+    },
+    "Volcano Supercomputer": {
+      "connects_to": ["Holomap"],
+      "requires": "|Skidbladnir| and |Desert Replika Destroyed| and |Forest Replika Destroyed| and |Ice Replika Destroyed| and |Mountain Replika Destroyed| and |Volcano Replika Key| and |Yumi's Telekinesis| and |Yumi's Virtualization| and |Ulrich's Virtualization|"
+    }
+}

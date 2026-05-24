@@ -1,0 +1,140 @@
+
+    [
+        {
+            "name": "Odd's Virtualization",
+            "category": ["Characters"],
+            "progression": true
+        },
+        {
+            "name": "Ulrich's Virtualization",
+            "category": ["Characters"],
+            "progression": true
+        },
+        {
+            "name": "Aelita's Virtualization",
+            "category": ["Characters"],
+            "progression": true
+        },
+        {
+            "name": "Yumi's Virtualization",
+            "category": ["Characters"],
+            "progression": true
+        },
+        {
+            "name": "Aelita's Petrification",
+            "category": ["Skills"],
+            "progression": true
+        },
+        {
+            "name": "Aelita's Construction",
+            "category": ["Skills"],
+            "progression": true
+        },
+        {
+            "name": "Aelita's Wings",
+            "category": ["Skills"],
+            "progression": true
+        },
+        {
+            "name": "Ulrich's Triplicate",
+            "category": ["Skills"],
+            "progression": true
+        },
+        {
+            "name": "Ulrich's Super Reflexes",
+            "category": ["Skills"],
+            "progression": true
+        },
+        {
+            "name": "Odd's Cat Jump",
+            "category": ["Skills"],
+            "progression": true
+        },
+        {
+            "name": "Odd's Time Control",
+            "category": ["Skills"],
+            "progression": true
+        },
+        {
+            "name": "Yumi's Balance",
+            "category": ["Skills"],
+            "progression": true
+        },
+        {
+            "name": "Yumi's Telekinesis",
+            "category": ["Skills"],
+            "progression": true
+        },
+        {
+            "name": "Goodie",
+            "category": ["Trash"],
+            "count": 58,
+            "filler": true
+        },
+        {
+            "name": "Life Upgrade",
+            "category": ["Life and Power Upgrades"],
+            "count": 28,
+            "useful": true
+        },
+        {
+            "name": "Power Upgrade",
+            "category": ["Life and Power Upgrades"],
+            "count": 27,
+            "useful": true
+        },
+        {
+            "name": "Skidbladnir",
+            "category": ["Skidbladnir"],
+            "progression": true
+        },
+        {
+            "name": "Desert Progressive Key",
+            "category": ["Keys"],
+            "count": 2,
+            "progression": true
+        },
+        {
+            "name": "Forest Progressive Key",
+            "category": ["Keys"],
+            "count": 2,
+            "progression": true
+        },
+        {
+            "name": "Ice Progressive Key",
+            "category": ["Keys"],
+            "count": 2,
+            "progression": true
+        },
+        {
+            "name": "Mountain Progressive Key",
+            "category": ["Keys"],
+            "count": 2,
+            "progression": true
+        },
+        {
+            "name": "Volcano Replika Key",
+            "category": ["Keys"],
+            "progression": true
+        },
+        {
+            "name": "Desert Replika Destroyed",
+            "category": ["Supercomputers"],
+            "progression": true
+        },
+        {
+            "name": "Forest Replika Destroyed",
+            "category": ["Supercomputers"],
+            "progression": true
+        },
+        {
+            "name": "Ice Replika Destroyed",
+            "category": ["Supercomputers"],
+            "progression": true
+        },
+        {
+            "name": "Mountain Replika Destroyed",
+            "category": ["Supercomputers"],
+            "progression": true
+        }
+    ]

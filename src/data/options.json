@@ -1,0 +1,35 @@
+{
+    "$schema": "https://raw.githubusercontent.com/ManualForArchipelago/Manual/main/schemas/Manual.options.schema.json",
+    "_comment": "Add a _ before an option name to comment it out and it wont be added to the apworld",
+    "core": {
+
+    },
+    "user": {
+        "starting_lyoko_warriors":{
+            "type": "Choice",
+            "description": [
+                "Choose the Lyoko Warriors availability",
+                "You can pick between everybody, random or your favorite one"
+            ],
+            "values": {
+                "all":0,
+                "random": 1,
+                "Odd": 2,
+                "Ulrich": 3,
+                "Aelita": 4,
+                "Yumi": 5
+             },
+            "default": 0,
+            "allow_custom_value": false
+        },
+        "skidbladnir":{
+            "type": "Toggle",
+            "description": [
+                "Choose if you want to start with the Skidbladnir",
+                "Skidbladnir is required to access Replika Sectors and Bosses along with the progressive keys"
+            ],
+            "default": true
+        }
+    }
+
+}

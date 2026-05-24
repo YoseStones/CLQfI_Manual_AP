@@ -1,0 +1,12 @@
+{
+    "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.game.schema.json",
+    "game": "Code Lyoko: Quest for Infinity",
+    "creator": "Yose",
+
+    "filler_item_name": "100 Digital Point",
+
+    "death_link": true,
+    "starting_items": [
+      
+  ]
+}
