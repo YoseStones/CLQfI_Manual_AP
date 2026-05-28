@@ -33,6 +33,6 @@ When you get devirtualized (By losing all of your HP or falling into the digital
 Since these deaths can be spammed, you can consider to leave the level or just fall into the digital sea when a death is received, it totally depends of your preference.
 
 ## What is the goal of a Code Lyoko: Quest for Infinity when randomized?
-Beating Magma Worm in the Volcano supercomputer area and rescuing William from X.A.N.A.'s virtual claws.
+Beating Magma Worm in the Volcano supercomputer area and rescuing William from X.A.N.A.'s virtual claws!
 
-In order to reach them you'll need to destroy the four supercomputers (Desert, Forest, Ice, Mountain) as well as the Volcano Replika Key (And the Skidbladnir of course)
+In order to reach them you'll need to destroy the four supercomputers (Desert, Forest, Ice, Mountain) as well as getting the Volcano Replika Key (And the Skidbladnir of course)
