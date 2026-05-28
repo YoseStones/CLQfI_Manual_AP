@@ -28,6 +28,11 @@ Lastly for the level unlocks, these were made as progressive... for example:
 
 A little exception occurs with the Volcano Replika, which is only one key.
 
+## How does the Death Link work?
+When you get devirtualized (By losing all of your HP or falling into the digital sea) you send the death link action, it can be done by using the manual client and it is as simple as clicking the death button.
+Since these deaths can be spammed, you can consider to leave the level or just fall into the digital sea when a death is received, it totally depends of your preference.
+
 ## What is the goal of a Code Lyoko: Quest for Infinity when randomized?
 Beating Magma Worm in the Volcano supercomputer area and rescuing William from X.A.N.A.'s virtual claws.
+
 In order to reach them you'll need to destroy the four supercomputers (Desert, Forest, Ice, Mountain) as well as the Volcano Replika Key (And the Skidbladnir of course)

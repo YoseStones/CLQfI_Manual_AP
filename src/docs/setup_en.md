@@ -26,8 +26,8 @@ https://archipelago.gg/tutorial/Archipelago/setup_en#creating-a-yaml
 
 ## Joining a MultiWorld Game
 
-- Once you have configured a YAML file for this game, move that YAML file into the Players folder, usually ubicated in the install path (C:\Program Files\Archipelago\Players)
-- Run the AP Launcher in your normal AP install and click the Generate button. This will create a zip in the output folder starting with "AP_". usually ubicated in the install path (C:\Program Files\Archipelago\output)
+- Once you have configured a YAML file for this game, move that YAML file into the Players folder, usually ubicated in the install path `C:\Program Files\Archipelago\Players`
+- Run the AP Launcher in your normal AP install and click the Generate button. This will create a zip in the output folder starting with "AP_". usually ubicated in the install path `C:\Program Files\Archipelago\output`
 - Go to the Archipelago website and click "Start Playing". Click "host a pre-generated game for you" and upload the "AP_" zip mentiond above. Then click "Create Room".
 - Run the AP Launcher in your normal AP install and click the Manual Client button, and choose your game name from the dropdown.
 - Connect as normal using the player name in your YAML. Use the "Tracker and Locations" tab to keep track of collected items and to check off locations.
