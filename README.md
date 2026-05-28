@@ -3,11 +3,6 @@
 ## What is Code Lyoko Quest for Infinity?
 Code Lyoko: Quest for Infinity is the second game based on the cartoon of the same name (Code Lyoko) released on 2007 for the Wii, PS2 and PSP Consoles based on 4th season.
 
-## Where is the YAML?
-YAML file will be provided in the releases.
-Additionally can get the YAML file for this game by following the tutorial in the Archipelago page:
-https://archipelago.gg/tutorial/Archipelago/setup_en#creating-a-yaml
-
 ## What does randomization do to this game?
  These are randomized:
 - Lyoko Warriors availability
@@ -30,6 +25,7 @@ The same goes with the skills, you can obtain a skill for a Lyoko Warrior you do
 Lastly for the level unlocks, these were made as progressive... for example:
 - Mountain Progressive Key x 1 = Mountain Replika and its areas is now open
 - Mountain Progressive Key x 2 = Mountain Replika and its areas is now open as well as the Mountain Supercomputer Boss Fight
+
 A little exception occurs with the Volcano Replika, which is only one key.
 
 ## What is the goal of a Code Lyoko: Quest for Infinity when randomized?
