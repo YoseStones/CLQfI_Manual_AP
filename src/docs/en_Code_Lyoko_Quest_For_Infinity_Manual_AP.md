@@ -20,6 +20,7 @@ Goodies, Life Upgrades and Power Upgrades are pretty useless even if they are co
 Skidbladnir is an original AP Item, that is required to access replikas and supercomputer areas.
 
 As for the characters, you can start with one of them or with everybody (Depends of the YAML config), if a Lyoko Warrior is not "Virtualizated" you can't use them until you get their virtualization item.
+
 The same goes with the skills, you can obtain a skill for a Lyoko Warrior you don't have, but that means you can't use that skill.
 
 Lastly for the level unlocks, these were made as progressive... for example:
@@ -30,6 +31,7 @@ A little exception occurs with the Volcano Replika, which is only one key.
 
 ## How does the Death Link work?
 When you get devirtualized (By losing all of your HP or falling into the digital sea) you send the death link action, it can be done by using the manual client and it is as simple as clicking the death button.
+
 Since these deaths can be spammed, you can consider to leave the level or just fall into the digital sea when a death is received, it totally depends of your preference.
 
 ## What is the goal of a Code Lyoko: Quest for Infinity when randomized?

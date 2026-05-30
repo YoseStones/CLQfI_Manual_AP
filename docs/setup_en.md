@@ -21,6 +21,7 @@ For Poptracker:
 
 ## Where is the YAML?
 YAML file will be provided in the releases.
+
 Additionally can get the YAML file for this game by following the tutorial in the Archipelago page:
 https://archipelago.gg/tutorial/Archipelago/setup_en#creating-a-yaml
 
@@ -37,6 +38,6 @@ This tutorial was copied from the Manual for Archipelago Discord
 
 ## Game Troubleshooting
 - Combat logic and Bosses were not checked at 100% so maybe you may experience that you'll need certain character to get pass. Let me know if that happens.
-- It's a pretty short game, having the duration of a Metroid game. So I won't recommend to play this with long games like Zelda or SA2 to avoid get BK'ed constantly
+- It's a pretty short game, having the duration of a Metroid game. So I won't recommend to play this with long games like Zelda or SA2B to avoid get BK'ed constantly
 - Most of the checks are pretty strict so it is highly recommended to use the Poptracker (It has full compatibility with the APWorld)
 - Poptracker can't give the "Victory" item, so you need to use the Manual Client instead.
