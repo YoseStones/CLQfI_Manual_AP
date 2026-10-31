@@ -17,7 +17,7 @@ Code Lyoko: Quest for Infinity is the second game based on the cartoon of the sa
 ## How does the logic work here?
 Goodies, Life Upgrades and Power Upgrades are pretty useless even if they are considered useful.
 
-Skidbladnir is an original AP Item, that is required to access replikas and supercomputer areas.
+Skidbladnir is an original AP Item, that is required to access digital sea trips, replikas and supercomputer areas.
 
 As for the characters, you can start with one of them or with everybody (Depends of the YAML config), if a Lyoko Warrior is not "Virtualizated" you can't use them until you get their virtualization item.
 
@@ -26,8 +26,10 @@ The same goes with the skills, you can obtain a skill for a Lyoko Warrior you do
 Lastly for the level unlocks, these were made as progressive... for example:
 - Mountain Progressive Key x 1 = Mountain Replika and its areas is now open
 - Mountain Progressive Key x 2 = Mountain Replika and its areas is now open as well as the Mountain Supercomputer Boss Fight
-
 A little exception occurs with the Volcano Replika, which is only one key.
+Don't forget that replika levels require the Skidbladnir to reach them, any lyoko warrior can use the Skidbladnir as it was showed in the original TV Show
+
+In the case of the Digital Sea trips you'll need the item (Digital Sea - Sector X coordinates) for the access + Skidbladnir + Aelita + any lyoko warrior available (In this game only Aelita can free the navskids for combat and exploration due of cinematic videos)
 
 ## How does the Death Link work?
 When you get devirtualized (By losing all of your HP or falling into the digital sea) you send the death link action, it can be done by using the manual client and it is as simple as clicking the death button.
