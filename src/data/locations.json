@@ -1,5 +1,110 @@
     [
         {
+            "name": "Kadic School: Goodie from Herb Present",
+            "region": "Kadic School",
+            "category": ["Kadic School"]
+        },
+        {
+            "name": "Kadic School: Goodie from Jim Present",
+            "region": "Kadic School",
+            "category": ["Kadic School"]
+        },
+        {
+            "name": "Kadic School: Goodie from Jeremy's Clone Present",
+            "region": "Kadic School",
+            "category": ["Kadic School"]
+        },
+        {
+            "name": "Kadic School: Goodie from Mrs. Hertz Present",
+            "region": "Kadic School",
+            "category": ["Kadic School"]
+        },
+        {
+            "name": "Kadic School: Goodie from Nicolas Present",
+            "region": "Kadic School",
+            "category": ["Kadic School"]
+        },
+
+        {
+            "name": "Digital Sea (Sector 1): Inaugural Flight",
+            "region": "Digital Sea",
+            "category": ["Digital Sea"],
+            "requires": "|Skidbladnir| and |Digital Sea - Sector 1 Coordinates| and |Aelita's Virtualization| and (|Odd's Virtualization| or |Ulrich's Virtualization| or |Yumi's Virtualization|)"
+        },
+        {
+            "name": "Digital Sea (Sector 1): To the Desert Replika",
+            "region": "Digital Sea",
+            "category": ["Digital Sea"],
+            "requires": "|Skidbladnir| and |Digital Sea - Sector 1 Coordinates| and |Aelita's Virtualization| and (|Odd's Virtualization| or |Ulrich's Virtualization| or |Yumi's Virtualization|)"
+        },
+        {
+            "name": "Digital Sea (Sector 2): To the Ice Replika",
+            "region": "Digital Sea",
+            "category": ["Digital Sea"],
+            "requires": "|Skidbladnir| and |Digital Sea - Sector 2 Coordinates| and |Aelita's Virtualization| and (|Odd's Virtualization| or |Ulrich's Virtualization| or |Yumi's Virtualization|)"
+        },
+        {
+            "name": "Digital Sea (Sector 3): To the Forest Replika",
+            "region": "Digital Sea",
+            "category": ["Digital Sea"],
+            "requires": "|Skidbladnir| and |Digital Sea - Sector 3 Coordinates| and |Aelita's Virtualization| and (|Odd's Virtualization| or |Ulrich's Virtualization| or |Yumi's Virtualization|)"
+        },
+        {
+            "name": "Digital Sea (Sector 3): To the Forest Replika (bis)",
+            "region": "Digital Sea",
+            "category": ["Digital Sea"],
+            "requires": "|Skidbladnir| and |Digital Sea - Sector 3 Coordinates| and |Aelita's Virtualization| and (|Odd's Virtualization| or |Ulrich's Virtualization| or |Yumi's Virtualization|)"
+        },
+        {
+            "name": "Digital Sea (Sector 3): To the Secret Forest Lab",
+            "region": "Digital Sea",
+            "category": ["Digital Sea"],
+            "requires": "|Skidbladnir| and |Digital Sea - Sector 3 Coordinates| and |Aelita's Virtualization| and (|Odd's Virtualization| or |Ulrich's Virtualization| or |Yumi's Virtualization|)"
+        },
+        {
+            "name": "Digital Sea (Sector 4): To the Secret Mountain Lab",
+            "region": "Digital Sea",
+            "category": ["Digital Sea"],
+            "requires": "|Skidbladnir| and |Digital Sea - Sector 4 Coordinates| and |Aelita's Virtualization| and (|Odd's Virtualization| or |Ulrich's Virtualization| or |Yumi's Virtualization|)"
+        },
+        {
+            "name": "Digital Sea (Sector 5): On the Trail of the Energy Mass",
+            "region": "Digital Sea",
+            "category": ["Digital Sea"],
+            "requires": "|Skidbladnir| and |Digital Sea - Sector 5 Coordinates| and |Aelita's Virtualization| and (|Odd's Virtualization| or |Ulrich's Virtualization| or |Yumi's Virtualization|)"
+        },
+        {
+            "name": "Digital Sea (Sector 5): Stealth Approach to the Volcano",
+            "region": "Digital Sea",
+            "category": ["Digital Sea"],
+            "requires": "|Skidbladnir| and |Digital Sea - Sector 5 Coordinates| and |Aelita's Virtualization| and (|Odd's Virtualization| or |Ulrich's Virtualization| or |Yumi's Virtualization|)"
+        },
+        {
+            "name": "Digital Sea (Sector 5): To the Secret Desert Lab",
+            "region": "Digital Sea",
+            "category": ["Digital Sea"],
+            "requires": "|Skidbladnir| and |Digital Sea - Sector 5 Coordinates| and |Aelita's Virtualization| and (|Odd's Virtualization| or |Ulrich's Virtualization| or |Yumi's Virtualization|)"
+        },
+        {
+            "name": "Digital Sea (Sector 6): First Trip into Volcano",
+            "region": "Digital Sea",
+            "category": ["Digital Sea"],
+            "requires": "|Skidbladnir| and |Digital Sea - Sector 6 Coordinates| and |Aelita's Virtualization| and (|Odd's Virtualization| or |Ulrich's Virtualization| or |Yumi's Virtualization|)"
+        },
+        {
+            "name": "Digital Sea (Sector 6): To the Secret Ice Lab",
+            "region": "Digital Sea",
+            "category": ["Digital Sea"],
+            "requires": "|Skidbladnir| and |Digital Sea - Sector 6 Coordinates| and |Aelita's Virtualization| and (|Odd's Virtualization| or |Ulrich's Virtualization| or |Yumi's Virtualization|)"
+        },
+        {
+            "name": "Digital Sea (Sector 6): To the Secret Volcano Lab",
+            "region": "Digital Sea",
+            "category": ["Digital Sea"],
+            "requires": "|Skidbladnir| and |Digital Sea - Sector 6 Coordinates| and |Aelita's Virtualization| and (|Odd's Virtualization| or |Ulrich's Virtualization| or |Yumi's Virtualization|)"
+        },
+
+        {
             "name": "Desert Sector (Epsilon): Life Upgrade behind Triplicate Rock",
             "region": "DS Epsilon",
             "category": ["DS Epsilon"],
@@ -161,8 +266,7 @@
         {
             "name": "Forest Sector: Power Upgrade on Checkpoint",
             "region": "FS",
-            "category": ["FS"],
-            "requires": "|Odd's Virtualization| or |Aelita's Virtualization| or |Yumi's Virtualization|"
+            "category": ["FS"]
         },
         {
             "name": "Forest Sector: Goodie behind Telekinesis Rock",
@@ -270,7 +374,7 @@
             "name": "Forest Replika (Dzeta): Goodie on Top of Rock",
             "region": "FR Dzeta",
             "category": ["FR Dzeta"],
-            "requires": "|Forest Progressive Key:1| and |Skidbladnir| and |Aelita's Petrification| and |Aelita's Virtualization| and |Ulrich's Virtualization|"
+            "requires": "|Forest Progressive Key:1| and |Skidbladnir|"
         },
         {
             "name": "Forest Replika (Dzeta): Goodie on Floating Island",
@@ -282,25 +386,25 @@
             "name": "Forest Replika (Dzeta): Life Upgrade on Exploration",
             "region": "FR Dzeta",
             "category": ["FR Dzeta"],
-            "requires": "|Forest Progressive Key:1| and |Skidbladnir| and |Ulrich's Virtualization|"
+            "requires": "|Forest Progressive Key:1| and |Skidbladnir|"
         },
         {
             "name": "Forest Replika (Dzeta): Goodie behind Telekinesis Rock",
             "region": "FR Dzeta",
             "category": ["FR Dzeta"],
-            "requires": "|Forest Progressive Key:1| and |Skidbladnir| and |Yumi's Telekinesis| and |Yumi's Virtualization| and |Ulrich's Virtualization|"
+            "requires": "|Forest Progressive Key:1| and |Skidbladnir| and |Yumi's Telekinesis| and |Yumi's Virtualization|"
         },
         {
             "name": "Forest Replika (Dzeta): Ulrich's Super Reflexes Data Package",
             "region": "FR Dzeta",
             "category": ["FR Dzeta"],
-            "requires": "|Forest Progressive Key:1| and |Skidbladnir| and |Ulrich's Virtualization|"
+            "requires": "|Forest Progressive Key:1| and |Skidbladnir|"
         },
         {
             "name": "Forest Replika (Dzeta): Life Upgrade by Cat Jumping",
             "region": "FR Dzeta",
             "category": ["FR Dzeta"],
-            "requires": "|Forest Progressive Key:1| and |Skidbladnir| and |Odd's Cat Jump| and |Odd's Virtualization| and |Ulrich's Virtualization|"
+            "requires": "|Forest Progressive Key:1| and |Skidbladnir| and |Odd's Cat Jump| and |Odd's Virtualization|"
         },
         {
             "name": "Forest Replika (Dzeta): Power Upgrade before Tree",
@@ -452,7 +556,8 @@
             "name": "Mountain Sector (Gamma): Power Upgrade after Opening Doors",
             "region": "MS Gamma",
             "category": ["MS Gamma"],
-            "requires": "|Ulrich's Triplicate| and |Aelita's Petrification| and |Aelita's Construction| and |Yumi's Balance| and |Aelita's Virtualization| and |Yumi's Virtualization| and |Ulrich's Virtualization|"
+            "requires": "(|Yumi's Balance| and |Ulrich's Triplicate| and |Yumi's Virtualization| and |Ulrich's Virtualization| and |Aelita's Construction| and |Aelita's Virtualization|) or (|Yumi's Balance| and |Ulrich's Triplicate| and |Yumi's Virtualization| and |Ulrich's Virtualization| and |Aelita's Petrification| and |Aelita's Virtualization|) or (|Aelita's Petrification| and |Aelita's Construction| and |Aelita's Virtualization|)"
+            
         },
 
 
@@ -730,7 +835,7 @@
             "name": "Volcano Replika (Omega): Power Upgrade behind Super Reflexes Wall",
             "region": "VR Omega",
             "category": ["VR Omega"],
-            "requires": "|Volcano Replika Key:1| and |Skidbladnir| and |Yumi's Telekinesis| and |Yumi's Balance| and |Odd's Cat Jump| and |Ulrich's Super Reflexes| and |Yumi's Virtualization| and |Odd's Virtualization| and |Ulrich's Virtualization|"
+            "requires": "|Volcano Replika Key:1| and |Skidbladnir| and |Yumi's Telekinesis| and |Yumi's Balance| and |Ulrich's Super Reflexes| and |Yumi's Virtualization| and |Odd's Virtualization| and |Ulrich's Virtualization|"
         },
         {
             "name": "Volcano Replika (Omega): Goodie on Top of Platform",
@@ -861,7 +966,7 @@
             "name": "Mountain Sector (Gamma): Tower after Opening Doors",
             "region": "MS Gamma",
             "category": ["MS Gamma"],
-            "requires": "|Ulrich's Triplicate| and |Aelita's Petrification| and |Aelita's Construction| and |Yumi's Balance| and |Aelita's Virtualization| and |Yumi's Virtualization| and |Ulrich's Virtualization|"
+            "requires": "(|Yumi's Balance| and |Ulrich's Triplicate| and |Yumi's Virtualization| and |Ulrich's Virtualization| and |Aelita's Construction| and |Aelita's Virtualization|) or (|Yumi's Balance| and |Ulrich's Triplicate| and |Yumi's Virtualization| and |Ulrich's Virtualization| and |Aelita's Petrification| and |Aelita's Virtualization|) or (|Aelita's Petrification| and |Aelita's Construction| and |Aelita's Virtualization|)"
         },
         {
             "name": "Mountain Sector (Pi): Protect Franz Hopper",
@@ -915,13 +1020,13 @@
             "name": "Volcano Replika (Omega): Tower from Stealth Mission",
             "region": "VR Omega",
             "category": ["VR Omega"],
-            "requires": "|Volcano Replika Key:1| and |Skidbladnir| and |Yumi's Telekinesis| and |Yumi's Balance| and |Odd's Cat Jump| and |Yumi's Virtualization| and |Odd's Virtualization|"
+            "requires": "|Volcano Replika Key:1| and |Skidbladnir| and |Yumi's Telekinesis| and |Yumi's Balance| and |Yumi's Virtualization| and |Odd's Virtualization| and (|Odd's Cat Jump| or (|Ulrich's Virtualization| and |Ulrich's Super Reflexes|))"
         },
         {
             "name": "Volcano Replika (Omega): Defeat William in X.A.N.A's Core",
             "region": "VR Omega",
             "category": ["VR Omega"],
-            "requires": "|Volcano Replika Key:1| and |Skidbladnir| and |Yumi's Telekinesis| and |Odd's Cat Jump| and |Yumi's Balance| and |Ulrich's Super Reflexes| and |Yumi's Virtualization| and |Odd's Virtualization| and |Ulrich's Virtualization|"
+            "requires": "|Volcano Replika Key:1| and |Skidbladnir| and |Yumi's Telekinesis| and |Yumi's Balance| and |Ulrich's Super Reflexes| and |Yumi's Virtualization| and |Odd's Virtualization| and |Ulrich's Virtualization|"
         },
         {
             "name": "Volcano Replika (Upsilon): Getting back to the Skid",

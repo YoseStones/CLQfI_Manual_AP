@@ -1,7 +1,14 @@
 {
     "Holomap": {
       "starting": true,
-      "connects_to": ["DS Epsilon", "DS Beta", "DR Button Path", "DR Triplicate Path", "FS", "FR Sigma", "FR Dzeta", "IS", "IR", "MS Gamma", "MS Pi", "MR Theta", "MR Omicron", "S5 Skid Garage", "S5 Core", "VR Alpha", "VR Omega", "VR Upsilon", "Desert Supercomputer", "Forest Supercomputer", "Ice Supercomputer", "Mountain Supercomputer", "Volcano Supercomputer"]
+      "connects_to": ["Kadic School", "Digital Sea", "DS Epsilon", "DS Beta", "DR Button Path", "DR Triplicate Path", "FS", "FR Sigma", "FR Dzeta", "IS", "IR", "MS Gamma", "MS Pi", "MR Theta", "MR Omicron", "S5 Skid Garage", "S5 Core", "VR Alpha", "VR Omega", "VR Upsilon", "Desert Supercomputer", "Forest Supercomputer", "Ice Supercomputer", "Mountain Supercomputer", "Volcano Supercomputer"]
+    },
+    "Kadic School": {
+      "connects_to": ["Holomap"]
+    },
+    "Digital Sea": {
+      "connects_to": ["Holomap"],
+      "requires": "|Skidbladnir|"
     },
     "DS Epsilon": {
       "connects_to": ["Holomap"]

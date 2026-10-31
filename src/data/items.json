@@ -68,7 +68,7 @@
         {
             "name": "Goodie",
             "category": ["Trash"],
-            "count": 58,
+            "count": 63,
             "filler": true
         },
         {
@@ -86,6 +86,36 @@
         {
             "name": "Skidbladnir",
             "category": ["Skidbladnir"],
+            "progression": true
+        },
+        {
+            "name": "Digital Sea - Sector 1 Coordinates",
+            "category": ["Digital Sea Coordinates"],
+            "progression": true
+        },
+        {
+            "name": "Digital Sea - Sector 2 Coordinates",
+            "category": ["Digital Sea Coordinates"],
+            "progression": true
+        },
+        {
+            "name": "Digital Sea - Sector 3 Coordinates",
+            "category": ["Digital Sea Coordinates"],
+            "progression": true
+        },
+        {
+            "name": "Digital Sea - Sector 4 Coordinates",
+            "category": ["Digital Sea Coordinates"],
+            "progression": true
+        },
+        {
+            "name": "Digital Sea - Sector 5 Coordinates",
+            "category": ["Digital Sea Coordinates"],
+            "progression": true
+        },
+        {
+            "name": "Digital Sea - Sector 6 Coordinates",
+            "category": ["Digital Sea Coordinates"],
             "progression": true
         },
         {
